@@ -1,6 +1,6 @@
 # 🚀 ZAIN MD 
 ### A Powerful WhatsApp Bot  
-> Created with ❤️ by **Team-Bandaheali**
+> Created with ❤️ by **ZAINTECHX🚩**
 
 <p align="center">
 <img src="https://bandaheali-cdn.koyeb.app/bandaheali/ZAIN MD.jpg" alt="ZAIN MD-MINI" width="500">
@@ -25,15 +25,15 @@
 ---
 
 # ✨ About ZAIN MD-MINI
-**SMD-MINI** is a fast, lightweight and powerful **WhatsApp Bot** built using **Baileys**.  
+**ZAIN MD-MINI** is a fast, lightweight and powerful **WhatsApp Bot** built using **Baileys**.  
 It includes a plugin system, automation features, and a scalable bot architecture designed for speed and stability.
 
 ---
 
-# 👑 Team Bandaheali
+# 👑 ZAINTECHX🚩
 
 <p align="center">
-<img src="https://bandaheali-cdn.koyeb.app/bandaheali/team.jpg" alt="Team-Bandaheali" width="500">
+<img src="https://ZAINTECHX-cdn.koyeb.app/ZAINTECHX/team.jpg" alt="Team--ZAINTECHX🚩*width="500">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 <img src="https://img.shields.io/badge/RASHID-THE--DEVIL%20(Lead%20Developer)-red?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Bandah-e-Ali">
+<a href="https://github.com/ZAINTECHX">
 <img src="https://img.shields.io/badge/BANDAHEALI-DONATER%20%26%20SUPPORTER-blue?style=for-the-badge&logo=github">
 </a>
 
@@ -58,7 +58,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07">
+<a href="https://whatsapp.com/channel/0029Vb8O3k8GU3BSSN2wBi1g">
 <img src="https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -77,14 +77,14 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
   <!-- Deploy to Render Button -->
-  <a href="https://render.com/deploy?repo=https://github.com/iTx-Sarkar/SMD-MINI">
+  <a href="https://render.com/deploy?repo=https://github.com/iTx-Sarkar/ZAIN MD">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black">
   </a>
 </p>
 
 <p align="center">
   <!-- Deploy to Koyeb Button -->
-  <a href="https://app.koyeb.com/deploy?name=smd-mini&type=git&repository=iTx-Sarkar%2FSMD-MINI&branch=main&builder=dockerfile&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=3900&env%5BBOT_NAME%5D=SMD-MiNi&env%5BNEWSLETTER_JID%5D=&env%5BPREFIX%5D=.&env%5BDATABASE_URL%5D=Enter Database Url&env%5BMENU_IMG%5D=https%3A%2F%2Fbandaheali-cdn.koyeb.app%2Fbandaheali%2Fteam.jpg&env%5BOWNER_NUMBER%5D=Team-bandaheali&env%5BSTATUS_REPLY_MSG%5D=Hello+from+bandaheali">
+  <a href="https://app.koyeb.com/deploy?name=ZAIN-MD &type=git&repository=iTx-Sarkar%2FSMD-MINI&branch=main&builder=dockerfile&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=3900&env%5BBOT_NAME%5D=ZAIN-MiNi&env%5BNEWSLETTER_JID%5D=&env%5BPREFIX%5D=.&env%5BDATABASE_URL%5D=Enter Database Url&env%5BMENU_IMG%5D=https%3A%2F%2Fbandaheali-cdn.koyeb.app%2Fbandaheali%2Fteam.jpg&env%5BOWNER_NUMBER%5D=Team-bandaheali&env%5BSTATUS_REPLY_MSG%5D=Hello+from+bandaheali">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-KOYEB-00A0DC?style=for-the-badge&logo=koyeb&logoColor=white">
   </a>
 </p>
@@ -101,8 +101,8 @@ It includes a plugin system, automation features, and a scalable bot architectur
 # ⚡ Installation
 
 ```bash
-git clone https://github.com/iTx-Sarkar/SMD-MINI
-cd SMD-MINI
+git clone https://github.com/iTx-Sarkar/ZAIN-MD 
+cd ZAIN-MD 
 npm install
 npm start
 ```
