@@ -1,22 +1,22 @@
-# 🚀 SMD-MINI
+# 🚀 ZAIN MD 
 ### A Powerful WhatsApp Bot  
 > Created with ❤️ by **Team-Bandaheali**
 
 <p align="center">
-<img src="https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg" alt="SMD-MINI" width="500">
+<img src="https://bandaheali-cdn.koyeb.app/bandaheali/ZAIN MD.jpg" alt="ZAIN MD-MINI" width="500">
 </p>
 
 <p align="center">
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI/fork">
+<a href="https://github.com/iTx-Sarkar/ZAIN MD-MINI/fork">
 <img src="https://img.shields.io/badge/FORK-SMD--MINI-blue?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI">
+<a href="https://github.com/iTx-Sarkar/ZAIN MD-MINI">
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://smd-mini.zone.id">
+<a href="https://ZAIN MD-mini.zone.id">
 <img src="https://img.shields.io/badge/DEPLOY-SMD--MINI-success?style=for-the-badge&logo=vercel">
 </a>
 
@@ -24,7 +24,7 @@
 
 ---
 
-# ✨ About SMD-MINI
+# ✨ About ZAIN MD-MINI
 **SMD-MINI** is a fast, lightweight and powerful **WhatsApp Bot** built using **Baileys**.  
 It includes a plugin system, automation features, and a scalable bot architecture designed for speed and stability.
 
@@ -70,7 +70,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
   <!-- Deploy to Heroku Button -->
-  <a href="https://www.heroku.com/deploy?template=https://github.com/iTx-Sarkar/SMD-MINI">
+  <a href="https://www.heroku.com/deploy?template=https://github.com/iTx-Sarkar/ZAIN MD-MINI">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
 </p>
@@ -121,4 +121,4 @@ The developers are not responsible for any misuse of this bot.
 ---
 
 # ❤️ Credits
-**SMD-MINI** Is Proudly Developed And Maintained By **Team-Bandaheali**
+**ZAIN MD** Is Proudly Developed And Maintained By **ZAINTECHX**
